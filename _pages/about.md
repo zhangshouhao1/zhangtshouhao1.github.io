@@ -8,8 +8,18 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Wei Qi is an associate professor in the Department of Industrial Engineering at Tsinghua University. 
 
-qiwei
+Also, he is an adjunct professor in Operations Management at the Desautels Faculty of Management, McGill University, where he was a tenured ​Associate Professor prior to Tsinghua. 
+
+​He also served as Strategic Advisor of the China Energy Group, Energy Analysis and Environmental Impacts Division at the Lawrence Berkeley National Laboratory. 
+
+Postdoc (2017), Lawrence Berkeley National Lab
+PhD (2016), IEOR, UC Berkeley
+MS (2011), Process Systems Engineering, UCLA
+BS (2010), Chu Kochen College and Automation, Zhejiang University
+
+Here are Wei's Tsinghua-based website (and a Chinese version) and Google Scholar Profile.  
 
 A data-driven personal website
 ======
