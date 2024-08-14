@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/37a83aef-6cff-45b4-8542-56c60bf85d4b)---
+---
 layout: archive
-title: "RESEARCH"
-permalink: /RESEARCH/
+title: "Publications"
+permalink: /publications//
 author_profile: true
 ---
 
