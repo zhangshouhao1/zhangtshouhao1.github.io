@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "RESEARCH"
-permalink: /RESEARCH//
+permalink: /RESEARCH/
 author_profile: true
 ---
 Operations Management / Operations Research
