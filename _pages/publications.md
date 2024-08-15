@@ -1,9 +1,22 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications//
+title: "RESEARCH"
+permalink: /RESEARCH//
 author_profile: true
 ---
+Operations Management / Operations Research
+
+Storing the Wind:
+Joint Planning of Energy Storage and Transmission for Wind Energy Generation.
+Wei Qi, Yong Liang and Zuo-Jun Max Shen.
+Operations Research, 63.6 (2015): 1280-1293.  
+
+Last-Mile Crowdshipping:
+Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact.
+Wei Qi, Lefei Li, Sheng Liu and Zuo-Jun Max Shen.
+Manufacturing & Service Operations Management, 20.4 (2018): 737-751.
+Among top 15 most downloaded papers in 2019, M&SOM.
+[MSOM Review Blog]
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -15,10 +28,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-111
-He also served as Strategic Advisor of the China Energy Group, Energy Analysis and Environmental Impacts Division at the Lawrence Berkeley National Laboratory. 
-
-1. Postdoc (2017), Lawrence Berkeley National Lab
-2. PhD (2016), IEOR, UC Berkeley MS (2011)
-3. Process Systems Engineering, UCLA BS (2010)
-4. Chu Kochen College and Automation, Zhejiang University
