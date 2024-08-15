@@ -5,29 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my Google Scholar profile.</div>
-{% endif %}
+Operations Management / Operations Research
 
-{% include base_path %}
+Storing the Wind:
+Joint Planning of Energy Storage and Transmission for Wind Energy Generation.
+Wei Qi, Yong Liang and Zuo-Jun Max Shen.
+Operations Research, 63.6 (2015): 1280-1293.  
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Last-Mile Crowdshipping:
+Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact.
+Wei Qi, Lefei Li, Sheng Liu and Zuo-Jun Max Shen.
+Manufacturing & Service Operations Management, 20.4 (2018): 737-751.
+Among top 15 most downloaded papers in 2019, M&SOM.
