@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Wei Qi is an associate professor in the Department of Industrial Engineering at Tsinghua University"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Operations Management / Operations Research
