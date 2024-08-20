@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Operations Management / Operations Research
-
+---
 Storing the Wind:
 Joint Planning of Energy Storage and Transmission for Wind Energy Generation.
 Wei Qi, Yong Liang and Zuo-Jun Max Shen.
@@ -113,8 +113,9 @@ With Junyu Cao and Feihong Hu.
 LLM + E2E Optimization:
 City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization. 
 With Zihao Jiao, Mengyi Sha, Haoyu Zhang and Xinyu Jiang.
-​
+
 Specialty: Energy and Transportation Systems 
+---
 Farsighted Stability of Distributed Energy Resource Sharing.
 W. Ai, T. Deng, W. Qi.
 Applied Energy, accepted in 2022.
@@ -150,9 +151,9 @@ Journal of Process Control, 21, 1504-1516, 2011.
 Supervisory Predictive Control of Stand-Alone Wind-Solar Energy Generation Systems.
 W. Qi, J. Liu, X. Chen and P. D. Christofides.
 IEEE Transactions on Control Systems Technology, 19, 199-207, 2011.
-​
 
 Conference Papers & Technical Reports
+---
 Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​Advances in Neural Information Processing Systems (Neurips) 2023.
 ​
 T. Wang, C. Wu, W. Qi, "On Data-driven Multi-Product Pricing," American Control Conference (ACC), New Orleans, Louisiana, May 2021.
@@ -168,8 +169,8 @@ W. Qi, J. Liu and P. D. Christofides. Supervisory predictive control of an integ
 
 Dupuy, Max, Fredrich Kahrl, Frederick Weston, Bo Shen, Andy Satchwell, Peter Cappers, Jennifer Potter, Wei Qi, Ella Zhou, Yingchen Zhang, John Barnett, Travis Lowder, and Lars Bregnbaek. Power Consumption, Demand and Competition Cooperation: Recommendations for the Pilots in Guangdong, Jilin, Jiangsu, and Shanghai. 2017.
 
-Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.  ​
-​
-​
+Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.   ​  ​ 
+
 Book Chapter
+---
 He L., Ma G., Qi W., Wang X., Hou S. (2022) Planning and Management of Charging Facilities for Electric Vehicle Sharing. In: Pardalos P.M., Rassia S.T., Tsokas A. (eds) Artificial Intelligence, Machine Learning, and Optimization Tools for Smart Cities. Springer Optimization and Its Applications, vol 186. Springer, Cham. 
