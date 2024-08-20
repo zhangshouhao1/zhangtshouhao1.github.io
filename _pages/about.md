@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Wei Qi is an associate professor in the Department of Industrial Engineering at Tsinghua University"
+title: "HOME"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-Also, he is an adjunct professor in Operations Management at the Desautels Faculty of Management, McGill University, where he was a tenured ​Associate Professor prior to Tsinghua. 
+Wei Qi is an associate professor in the Department of Industrial Engineering at Tsinghua University. Also, he is an adjunct professor in Operations Management at the Desautels Faculty of Management, McGill University, where he was a tenured ​Associate Professor prior to Tsinghua. 
 
 ​He also served as Strategic Advisor of the China Energy Group, Energy Analysis and Environmental Impacts Division at the Lawrence Berkeley National Laboratory. 
 
