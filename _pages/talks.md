@@ -1,5 +1,10 @@
-Instructor at Tsinghua
-======
+---
+layout: archive
+title: "Instructor at Tsinghua"
+permalink: /talks/
+author_profile: true
+---
+
 Operations Research II: Applied Stochastic Models (Undergraduate Core Course)
 
 Strategic Management (International Master of Engineering Management (IMEM) Program)
