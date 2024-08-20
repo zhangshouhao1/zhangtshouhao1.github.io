@@ -21,25 +21,25 @@ BS (2010), [Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp) and
 Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/1017/1809.htm) (and a [Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)) and [Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en).  
 
 Research Interests
-======
+---
 [Smart-city operations](https://webvpn.tsinghua.edu.cn/login):
-1. Climate-resilient cities (e.g., seawater intrusion prevention, planning against extreme rainfalls)
-2. Agile and autonomous logistics  (e.g., autonomous mobile stores, last-mile crowdshipping, online facility location)
-3. Energy, mobility, and their citywide synergy (e.g., energy storage, battery swapping, shared autonomous electric vehicles）
-4. Sharing economy (e.g., vehicle sharing,  energy omni-sharing)
+* Climate-resilient cities (e.g., seawater intrusion prevention, planning against extreme rainfalls)
+* Agile and autonomous logistics  (e.g., autonomous mobile stores, last-mile crowdshipping, online facility location)
+* Energy, mobility, and their citywide synergy (e.g., energy storage, battery swapping, shared autonomous electric vehicles）
+* Sharing economy (e.g., vehicle sharing,  energy omni-sharing)
 
 Biography
-======
+---
 Wei Qi is a tenured Associate Professor in the Department of Industrial Engineering at Tsinghua University. He is also an adjunct professor in operations management at the Desautels Faculty of Management at McGill University, where he was a tenured associate professor. He also served as Strategic Advisor of the China Energy Group, Energy Analysis, and Environmental Impacts Division at the Lawrence Berkeley National Laboratory. His research has contributed to smart-city operations concerning urban energy, mobility, retail logistics, and climate adaptation.  The National Natural Science Foundation of China (NSFC), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Fonds de Recherche du Québec (FRQ) have supported his research. The outcomes of his research have appeared in journals and proceedings including Operations Research, Management Science, Manufacturing & Service Operations Management, IEEE Transactions in Power Systems, and Neurips. Wei earned a Ph.D. from UC Berkeley, an M.S. from UCLA, and a B.E. from Zhejiang University, China.
 
 Wei received academic awards including INFORMS SOLA Chuck ReVelle Rising Star Award, INFORMS ENRE Best Publication Award in Energy, INFORMS TSL Best Paper Award, etc. Joint work with students received recognition, such as being a finalist for the 2023 INFORMS Undergraduate Operations Research Prize. As a recognition of his efforts in teaching data analytics, he received the 2020 Distinguished Teaching Award from the Desautels Faculty of Management at McGill University.
 
 For Prospective Postdocs/Students:
-======
+---
 Please send an email to me if you are interested in working with me.  ​
 
 Contact Info:  ​​
-------
+---
 Address: Shunde Building, Tsinghua University, Beijing 100084                       
 ​Email: qiw{at}tsinghua.edu.cn                        
--------------------------------------------------------------------------------------------------------------------Updated by Wei Qi (祁炜)
+                                                                                                     Updated by Wei Qi (祁炜)
