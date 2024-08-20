@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching & Work"
 permalink: /teaching & work/
 author_profile: true
 ---
