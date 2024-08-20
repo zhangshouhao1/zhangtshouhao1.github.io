@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Instructor at Tsinghua"
-permalink: /talks/
+title: "Teaching & Work"
+permalink: /teaching $ work/
 author_profile: true
 ---
 
