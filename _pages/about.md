@@ -7,20 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Wei Qi is an associate professor in the Department of Industrial Engineering at Tsinghua University. Also, he is an adjunct professor in Operations Management at the Desautels Faculty of Management, McGill University, where he was a tenured ​Associate Professor prior to Tsinghua. 
+Wei Qi is an associate professor in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).   
 
-​He also served as Strategic Advisor of the China Energy Group, Energy Analysis and Environmental Impacts Division at the Lawrence Berkeley National Laboratory. 
+Also, he is an adjunct professor in [Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at [the Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/), where he was a tenured ​  Associate Professor prior to Tsinghua.   
 
-1. Postdoc (2017), Lawrence Berkeley National Lab
-2. PhD (2016), IEOR, UC Berkeley MS (2011)
-3. Process Systems Engineering, UCLA BS (2010)
-4. Chu Kochen College and Automation, Zhejiang University
+​He also served as Strategic Advisor of the [China Energy Group](https://international.lbl.gov/china-energy-program), [Energy Analysis and Environmental Impacts Division](https://energyanalysis.lbl.gov/) at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). 
 
-Here are Wei's Tsinghua-based website (and a Chinese version) and Google Scholar Profile.  
+Postdoc (2017), [Lawrence Berkeley National Lab](https://www.lbl.gov/)
+PhD (2016), [IEOR](https://ieor.berkeley.edu/), UC Berkeley    
+MS(2011), [Process Systems Engineering](https://www.chemeng.ucla.edu/about/), UCLA   
+BS (2010), [Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp) and [Automation](http://www.cse.zju.edu.cn/english/main.psp), Zhejiang University
+
+Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/1017/1809.htm) (and a [Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)) and [Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en).  
 
 Research Interests
 ======
-Smart-city operations:
+[Smart-city operations](https://webvpn.tsinghua.edu.cn/login):
 1. Climate-resilient cities (e.g., seawater intrusion prevention, planning against extreme rainfalls)
 2. Agile and autonomous logistics  (e.g., autonomous mobile stores, last-mile crowdshipping, online facility location)
 3. Energy, mobility, and their citywide synergy (e.g., energy storage, battery swapping, shared autonomous electric vehicles）
