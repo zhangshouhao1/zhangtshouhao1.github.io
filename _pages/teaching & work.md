@@ -46,9 +46,11 @@ Undergraduate Students:
 
 Work Experiences
 ======
+
 ﻿AOL Advertising, Palo Alto, CA, US   
 Data Scientist Intern, Algorithm Research Group, May - August 2014
 ======
+
 Lawrence Berkeley National Laboratory, CA, US  
 Postdoctoral Fellow, China Energy Group, 2016-2017
 ======
