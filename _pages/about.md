@@ -43,4 +43,4 @@ Contact Info:  ​​
 ---
 Address: Shunde Building, Tsinghua University, Beijing 100084                       
 ​Email: qiw{at}tsinghua.edu.cn                        
-                                                                                                     * Updated by Wei Qi (祁炜)
+Updated by Wei Qi (祁炜)
