@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Wei Qi is an associate professor in the _[Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/)._   
+Wei Qi is an associate professor in the _[Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/)_ at _[Tsinghua University](https://www.tsinghua.edu.cn/en/)_.   
 
-Also, he is an adjunct professor in _[Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at [the Desautels Faculty of Management]__(https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/)_, where he was a tenured ​  Associate Professor prior to Tsinghua.   
+Also, he is an adjunct professor in _[Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at _[the Desautels Faculty of Management](https://www.mcgill.ca/desautels/)_, [McGill University](https://www.mcgill.ca/)_, where he was a tenured ​  Associate Professor prior to Tsinghua.   
 
 ​He also served as Strategic Advisor of the _[China Energy Group](https://international.lbl.gov/china-energy-program)_, _[Energy Analysis and Environmental Impacts Division](https://energyanalysis.lbl.gov/)_ at the _[Lawrence Berkeley National Laboratory](https://www.lbl.gov/)_. 
 
-Postdoc (2017), _[Lawrence Berkeley National Lab](https://www.lbl.gov/)_
-PhD (2016),_ [IEOR](https://ieor.berkeley.edu/)_, UC Berkeley    
+Postdoc (2017), _[Lawrence Berkeley National Lab](https://www.lbl.gov/)_  
+PhD (2016), _[IEOR](https://ieor.berkeley.edu/)_, UC Berkeley    
 MS(2011), _[Process Systems Engineering](https://www.chemeng.ucla.edu/about/)_, UCLA   
 BS (2010), _[Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp)_ and _[Automation](http://www.cse.zju.edu.cn/english/main.psp)_, Zhejiang University
 
