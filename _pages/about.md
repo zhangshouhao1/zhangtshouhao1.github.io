@@ -8,22 +8,22 @@ redirect_from:
 ---
    
 
-Wei Qi is an associate professor in the _[Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/)_ at _[Tsinghua University](https://www.tsinghua.edu.cn/en/)_.   
+Wei Qi is an associate professor in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).   
 
-Also, he is an adjunct professor in *[Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management)* at *[the Desautels Faculty of Management](https://www.mcgill.ca/desautels/)*, _[McGill University](https://www.mcgill.ca/)_, where he was a tenured ​  Associate Professor prior to Tsinghua.   
+Also, he is an adjunct professor in [Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at [the Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/), where he was a tenured ​  Associate Professor prior to Tsinghua.   
 
-​He also served as Strategic Advisor of the _[China Energy Group](https://international.lbl.gov/china-energy-program)_, _[Energy Analysis and Environmental Impacts Division](https://energyanalysis.lbl.gov/)_ at the _[Lawrence Berkeley National Laboratory](https://www.lbl.gov/)_. 
+​He also served as Strategic Advisor of the [China Energy Group](https://international.lbl.gov/china-energy-program), [Energy Analysis and Environmental Impacts Division](https://energyanalysis.lbl.gov/) at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). 
 
-Postdoc (2017), _[Lawrence Berkeley National Lab](https://www.lbl.gov/)_  
-PhD (2016), _[IEOR](https://ieor.berkeley.edu/)_, UC Berkeley    
-MS(2011), _[Process Systems Engineering](https://www.chemeng.ucla.edu/about/)_, UCLA   
-BS (2010), _[Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp)_ and _[Automation](http://www.cse.zju.edu.cn/english/main.psp)_, Zhejiang University
+Postdoc (2017), [Lawrence Berkeley National Lab](https://www.lbl.gov/)  
+PhD (2016), [IEOR](https://ieor.berkeley.edu/), UC Berkeley    
+MS(2011), [Process Systems Engineering](https://www.chemeng.ucla.edu/about/), UCLA   
+BS (2010), [Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp) and [Automation](http://www.cse.zju.edu.cn/english/main.psp), Zhejiang University
 
-Here are Wei's Tsinghua-based _[website](https://www.ie.tsinghua.edu.cn/eng/info/1017/1809.htm)_ (and a _[Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)_) and _[Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en)_.  
+Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/1017/1809.htm) (and a [Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)) and [Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en).  
 
 Research Interests
 ---
-_[Smart-city operations](https://onlinelibrary.wiley.com/doi/full/10.1111/poms.12928)_:
+[Smart-city operations](https://onlinelibrary.wiley.com/doi/full/10.1111/poms.12928):
 * Climate-resilient cities (e.g., seawater intrusion prevention, planning against extreme rainfalls)
 * Agile and autonomous logistics  (e.g., autonomous mobile stores, last-mile crowdshipping, online facility location)
 * Energy, mobility, and their citywide synergy (e.g., energy storage, battery swapping, shared autonomous electric vehicles）
