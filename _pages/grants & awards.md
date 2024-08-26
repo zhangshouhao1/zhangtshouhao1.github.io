@@ -73,8 +73,8 @@ Awards
 * ​Winner, INFORMS TSL (Transportation Science & Logistics) Best Paper Award, 2023.
 * Winner, INFORMS ENRE Best Publication Award in Energy, 2022.
 * Winner, MSOM Data-Driven Research Challenge, 2022.
-* INFORMS SOLA (Society of Location Analysis) Chuck ReVelle Rising Star Award, 2021.
-* ​Distinguished Teaching Award - Top Undergraduate Teacher of Year 2019-2020 of Desautels Faculty of Management.
+* INFORMS SOLA (Society of Location Analysis) [Chuck ReVelle Rising Star Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Chuck-ReVelle-Rising-Star-Award), 2021.
+* ​[Distinguished Teaching Award](https://www.mcgill.ca/channels/channels/news/desautels-professors-celebrated-their-teaching-excellence-323094) - Top Undergraduate Teacher of Year 2019-2020 of Desautels Faculty of Management.
 * Finalist, INFORMS Undergraduate Operations Research Prize, 2023, awarded to Zhuolun Dong. ​
 * Second-Place Winner, INFORMS Service Science Best Cluster Paper Award, 2022.
 * Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.
@@ -93,13 +93,14 @@ Awards
 
 In the News
 ---
-* Self-driving cars let retailers bring the store to you. Medium, January 2024. 
-* A more decision-oriented and synergy-oriented paradigm for next-gen urban transportation. The Hill Times, March 2022. 
-* Can crowdshipping solve last-mile delivery shortages? Trucknews.com, December 2020.
-* Can Smart Cities Be Smarter? Delve, February 2021.
-​* 2020 Virtual Smart-City Operations and Analytics Conference, on October 20, 2020.
+* [Self-driving cars let retailers bring the store to you](https://medium.com/texas-mccombs/self-driving-cars-let-retailers-bring-the-store-to-you-848f3acccbaa). Medium, January 2024. 
+* [A more decision-oriented and synergy-oriented paradigm for next-gen urban transportation. The Hill Times](https://www.hilltimes.com/story/2022/02/28/a-more-decision-oriented-and-synergy-oriented-paradigm-for-next-gen-urban-transportation/270268/), March 2022. 
+* [Can crowdshipping solve last-mile delivery shortages?](https://www.trucknews.com/transportation/can-crowdshipping-solve-last-mile-delivery-shortages/1003147601/) Trucknews.com, December 2020.
+* [Can Smart Cities Be Smarter?](https://delve.mcgill.ca/read/can-smart-cities-be-smarter/) Delve, February 2021.
+* [2020 Virtual Smart-City Operations and Analytics Conference](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=43ab423d-3005-4b55-9b00-aede8c0fec10&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&hlmlt=VT), on October 20, 2020.
+  
 
 Events
 ---
-* ​2020 Virtual Smart-City Operations and Analytics Conference, on October 20, 2020.
-* Talk on Citywide Mobility-Energy Orchestration at the Workshop on Smart Cities Optimization, Fields Institute, University of Toronto, on January 10, 2020.
+* ​[2020 Virtual Smart-City Operations and Analytics Conference](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=43ab423d-3005-4b55-9b00-aede8c0fec10&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&hlmlt=VT), on October 20, 2020.
+* [Talk on Citywide Mobility-Energy Orchestration](https://www.fields.utoronto.ca/talks/Citywide-Mobility-Energy-Orchestration-Shared-Electric-Vehicles-to-Self-Sufficient-and) at the Workshop on Smart Cities Optimization, Fields Institute, University of Toronto, on January 10, 2020.
