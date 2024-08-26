@@ -20,7 +20,7 @@ Instructor at McGill
 MGSC 404: Foundations of Decision Analytics ([Undergraduate Business Analytics Concentration](https://www.mcgill.ca/desautels/programs/bcom/academics/course-information/concentrations/business-analytics))
 
 ​MGSC 603: Foundations of Data Analytics ([Joint Master Program with Zhejiang University, China](https://www.mcgill.ca/desautels/programs/bcom/academics/course-information/concentrations/business-analytics))
-​
+
 MGCR 271: Business Statistics (Undergraduate Core Course)
 
 Students and Postdoc Collaborators
