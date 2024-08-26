@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Beijing"
-title                    : "HOMEPAGE"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Wei Qi"
 description              : &description "personal description"
