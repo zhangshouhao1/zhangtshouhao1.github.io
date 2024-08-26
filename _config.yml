@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Wei Qi / Personal Homepage"
+locale                   : "Beijing"
+title                    : "HOMEPAGE"
 title_separator          : "-"
 name                     : &name "Wei Qi"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ author:
   avatar           : "wechat.png"
   name             : "Wei Qi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "China Beijing"
-  employer         : " Tsinghua University"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "	qiw@tsinghua.edu.cn" 
+  email            : "qiw@tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
